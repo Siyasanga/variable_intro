@@ -1,0 +1,10 @@
+var bool = true;
+var age = 10;
+var word = 'Unity';
+var date = new Date();
+var lotto = [12,5,16,45,23,25];
+console.log(typeof(bool));
+console.log(typeof(age));
+console.log(typeof(word));
+console.log(typeof(date));
+console.log(typeof(lotto));
